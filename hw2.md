@@ -1,4 +1,7 @@
-### Mermaid
+# PERT/CPM 圖
+![image](https://github.com/AnxWei/TryTry/assets/145324253/a78c561b-5f8f-4caa-b267-90fc4245538c)
+
+# 甘特圖
 ```mermaid
 gantt
     title 任務清單
@@ -15,3 +18,6 @@ gantt
     使用者訓練         :a10,after a7  , 20d
     使用者測試         :a11,after a9  , 25d
 ```
+
+# 關鍵路徑
+## 1➜2➜4➜6➜9➜11
